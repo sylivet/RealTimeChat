@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lalala</string>
+    <string name="pick_picture">Pick Picture</string>
+    <string name="picture">picture</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="send">SEND</string>
+</resources>
